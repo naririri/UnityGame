@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../.git"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Library"
+		},
+		{
+			"path": "../../Logs"
+		},
+		{
+			"path": "../../Packages"
+		},
+		{
+			"path": "../../ProjectSettings"
+		},
+		{
+			"path": "../../UserSettings"
+		}
+	]
+}

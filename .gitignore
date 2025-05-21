@@ -1,0 +1,37 @@
+# Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# User-specific settings
+UserSettings/
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+
+# Visual Studio/MonoDevelop generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Crash reports
+sysinfo.txt
+
+# Build results
+*.apk
+*.aab
+*.unitypackage
+brew install git-lfs
+git lfs install
